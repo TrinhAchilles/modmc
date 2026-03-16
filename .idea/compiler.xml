@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="22" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-AoutRefMapFile=D:\tacticalboss\build\classes\java\client\client-tacticalboss-refmap.json -AdefaultObfuscationEnv=named:intermediary -Aquiet=true -AoutMapFileNamedIntermediary=D:\tacticalboss\build\loom-cache\mixin-map-net.fabricmc.yarn.1_21_1.1.21.1+build.3-v2.client.tiny &quot;-AinMapFileNamedIntermediary=C:\Users\ANH THU\.gradle\caches\fabric-loom\1.21.1\net.fabricmc.yarn.1_21_1.1.21.1+build.3-v2\mappings.tiny&quot;" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="tacticalboss.main" options="-AoutRefMapFile=D:\tacticalboss\build\classes\java\main\tacticalboss-refmap.json -AdefaultObfuscationEnv=named:intermediary -Aquiet=true -AoutMapFileNamedIntermediary=D:\tacticalboss\build\loom-cache\mixin-map-net.fabricmc.yarn.1_21_1.1.21.1+build.3-v2.main.tiny &quot;-AinMapFileNamedIntermediary=C:\Users\ANH THU\.gradle\caches\fabric-loom\1.21.1\net.fabricmc.yarn.1_21_1.1.21.1+build.3-v2\mappings.tiny&quot;" />
+      <module name="tacticalboss.test" options="-AoutRefMapFile=D:\tacticalboss\build\classes\java\test\test-tacticalboss-refmap.json -AdefaultObfuscationEnv=named:intermediary -Aquiet=true -AoutMapFileNamedIntermediary=D:\tacticalboss\build\loom-cache\mixin-map-net.fabricmc.yarn.1_21_1.1.21.1+build.3-v2.test.tiny &quot;-AinMapFileNamedIntermediary=C:\Users\ANH THU\.gradle\caches\fabric-loom\1.21.1\net.fabricmc.yarn.1_21_1.1.21.1+build.3-v2\mappings.tiny&quot;" />
+    </option>
+  </component>
+</project>
